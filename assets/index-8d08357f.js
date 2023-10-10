@@ -84,7 +84,7 @@ Error generating stack: `+o.message+`
       `,children:"Calculate"}),z.jsx("button",{className:`
        text-md font-light tracking-wide pl-2 pr-2 pt-1 pb-1 mb-5
        border border-slate-400 hover:border-slate-200 text-slate-800 hover:text-slate-300 rounded-sm
-      `,onClick:v,children:"Clear"})]})]})},Ra="/bmicalc/assets/red-b07c1d1a.svg",zh="/bmicalc/assets/green-3323b75a.svg",Rh="/bmicalc/assets/yellow-75c953eb.svg",$h=()=>z.jsxs("div",{className:`
+      `,onClick:v,children:"Clear"})]})]})},Ra="/bmi-calc/assets/red-b07c1d1a.svg",zh="/bmi-calc/assets/green-3323b75a.svg",Rh="/bmi-calc/assets/yellow-75c953eb.svg",$h=()=>z.jsxs("div",{className:`
     w-72 md:w-2/5 animate-categDrop mt-10 mb-10 md:m-0
     border border-slate-400 
     h-1/2 rounded-l flex items-center justify-center flex-col
