@@ -7,7 +7,7 @@ const BmiCategories = () => {
   return (
     <div
       className="
-    w-72 md:w-2/5 animate-categMobileDrop md:animate-categMobileDrop mt-10 mb-10 md:m-0
+    w-72 md:w-2/5 animate-categMobileDrop md:animate-categDrop mt-10 mb-10 md:m-0
     border border-slate-400 
     h-1/2 rounded-l flex items-center justify-center flex-col
    "
