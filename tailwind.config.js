@@ -33,7 +33,7 @@ export default {
         calcDrop : 'calcDrop 1s ease forwards',
         categDrop : 'categDrop 2.5s ease forwards',
         categMobileDrop : 'categMobileDrop 2s ease forwards',
-        headDrop : 'headDrop 3.5s ease forwards',
+        headDrop : 'headDrop 2.5s ease forwards',
       }
     },
   },
