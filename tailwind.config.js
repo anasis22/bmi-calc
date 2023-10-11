@@ -24,10 +24,15 @@ export default {
           '0%' : {transform : 'translateY(-1000px)'},
           '100%' : {transform : 'translateY(0px)'}
         },
+        categMobileDrop : {
+          '0%' : {transform : 'translateX(-500px)'},
+          '100%' : {transform : 'translateX(0px)'}
+        }
       },
       animation : {
         calcDrop : 'calcDrop 1s ease forwards',
         categDrop : 'categDrop 2.5s ease forwards',
+        categMobileDrop : 'categMobileDrop 2s ease forwards',
         headDrop : 'headDrop 3.5s ease forwards',
       }
     },
